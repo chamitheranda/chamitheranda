@@ -1,11 +1,11 @@
-[![MasterHead](https://drive.google.com/file/d/1mtoGJBBwTquNxL0ClwItrLDkIAZH-6n8/view?usp=drive_link)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Chamith Eranda</h1>
 <h3 align="center">Aspiring software engineer and data science enthusiast, dedicated to mastering both domains. Committed to innovation and impactful solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamitheranda&label=Profile%20views&color=0e75b6&style=flat" alt="chamitheranda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamitheranda" alt="chamitheranda" /></a> </p>
+
 
 - 🌱 I’m currently learning **ASP.NET**
 
