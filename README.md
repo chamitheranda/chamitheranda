@@ -11,7 +11,7 @@
 
 - 🖥️ I’m currently learning **ASP.NET**
 
-- 💬 Ask me about **SpringBoot , React , Data Science **
+- 💬 Ask me about **SpringBoot , React , Data Science**
 
 - 📫 How to reach me **erandachamith322@gmail.com**
 
