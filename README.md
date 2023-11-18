@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1mtoGJBBwTquNxL0ClwItrLDkIAZH-6n8/view?usp=sharing)](https://chamitheranda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Chamith Eranda</h1>
 <h3 align="center">Aspiring software engineer and data science enthusiast, dedicated to mastering both domains. Committed to innovation and impactful solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
