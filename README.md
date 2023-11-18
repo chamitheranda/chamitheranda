@@ -1,5 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1mtoGJBBwTquNxL0ClwItrLDkIAZH-6n8/view?usp=sharing)
-
+[![MasterHead](https://drive.google.com/file/d/1mtoGJBBwTquNxL0ClwItrLDkIAZH-6n8/view?usp=sharing)](https://chamitheranda.io)
 <h1 align="center">Hi 👋, I'm Chamith Eranda</h1>
 <h3 align="center">Aspiring software engineer and data science enthusiast, dedicated to mastering both domains. Committed to innovation and impactful solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwi2yb2Ctc2CAxUoQ2cHHaa0CYwQMyguegUIARDbAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=680&h=428&q=coding%20gif%20download&ved=2ahUKEwi2yb2Ctc2CAxUoQ2cHHaa0CYwQMyguegUIARDbAQ"/>
